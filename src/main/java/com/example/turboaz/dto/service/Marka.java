@@ -1,2 +1,4 @@
-package com.example.turboaz.dto.service;public class Marka {
+package com.example.turboaz.dto.service;
+
+public class Marka {
 }
